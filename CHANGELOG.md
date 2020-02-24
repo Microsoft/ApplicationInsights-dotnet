@@ -1,7 +1,7 @@
 ﻿# Changelog
 
 ## VNext
-
+- LOGGING: Make TelemetryConfiguration configurable in ApplicationInsightsLoggingBuilderExtensions
 
 ## Version 2.14.0-beta2
 - [Fix: AspNetCore AddApplicationInsightsSettings() and MissingMethodException](https://github.com/microsoft/ApplicationInsights-dotnet/issues/1702)
