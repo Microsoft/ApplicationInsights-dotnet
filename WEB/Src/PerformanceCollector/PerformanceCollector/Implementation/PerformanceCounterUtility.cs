@@ -74,7 +74,7 @@
             return true;
         }
 
-#if NET452
+#if NETFRAMEWORK
         public static IPerformanceCollector GetPerformanceCollector()
         {
             IPerformanceCollector collector;
